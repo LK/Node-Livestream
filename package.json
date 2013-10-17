@@ -1,0 +1,12 @@
+{
+  "name": "NodeLivestream",
+  "version": "0.0.1",
+  "description": "Testing Node out!",
+  "main": "app.js",
+  "author": "Lenny Khazan",
+  "license": "MIT",
+  "dependencies": {
+  	"express": "latest",
+  	"hbs": "latest"
+  }
+}
